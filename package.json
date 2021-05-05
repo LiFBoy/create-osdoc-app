@@ -1,13 +1,13 @@
 {
-  "name": "create-osdoc-app",
+  "name": "create-ossdoc-app",
   "version": "0.0.6",
   "description": "create-osdoc-app cli",
   "main": "index.js",
-  "repository": "git@github.com:osdoc-dev/create-osdoc-app.git",
+  "repository": "git@github.com:LiFBoy/create-osdoc-app.git",
   "author": "ahwgs <ah_wgs@126.com>",
-  "homepage": "https://github.com/osdoc-dev/create-osdoc-app",
+  "homepage": "https://github.com/LiFBoy/create-osdoc-app",
   "bugs": {
-    "url": "https://github.com/osdoc-dev/create-osdoc-app/issues"
+    "url": "https://github.com/LiFBoy/create-osdoc-app/issues"
   },
   "license": "MIT",
   "files": [
